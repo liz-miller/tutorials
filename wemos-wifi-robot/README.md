@@ -16,7 +16,7 @@ Software
 * Arduino IDE
 * ESP8266 library
 * ESP8266 Board Manager
-* [WeMos D1 Mini DRIVER](https://wiki.wemos.cc/downloads)
+* WeMos D1 Mini DRIVER: https://wiki.wemos.cc/downloads
 * Web browser (for commanding robot)
 * WeMos_D1_Mini_Wifi_Robot sketch (.ino)
 ```
@@ -24,7 +24,7 @@ Software
 Hardware
 
 ```
-* Arduino Robot Chassis w/ motors (2WD or 4WD is fine) --> [Contact Me to buy my Create Robot](https://www.learnrobotics.org/contact#form)
+* Arduino Robot Chassis w/ motors (2WD or 4WD is fine)
 * L298N motor controller
 * Battery Pack (I used a 7.4V battery pack)
 * Jumper Wires
@@ -32,6 +32,9 @@ Hardware
 * Micro usb cable
 * Breadboard
 ```
+
+[Contact Me to buy my Create Robot](https://www.learnrobotics.org/contact#form)
+
 
 ### Building & Electronic Wiring
 You'll need to build the robot chassis prior to starting this tutorial. When you're finished, pick up here with the Electronic Wiring.
