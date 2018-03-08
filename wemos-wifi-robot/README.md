@@ -4,7 +4,7 @@ Wifi-enabled devices are all the rage these days. I've decided to swap out my Ar
 
 [![View Video on YouTube](https://lh4.googleusercontent.com/-xGCElPfPZG18VaT4E-icax_ejcC2bI0AuxGBUa-i8QeSkDsrFY_FnIzYVkuINlA5QZRmWb_WwU4PH2Xz4-I=w1112-h790)](https://youtu.be/BuSS_MBPCEk "View Video on YouTube")
 
-Read more in the full tutorial on [Learn Robotics Blog](https://www.learnrobotics.org/blog)
+Read more in the full tutorial on [Learn Robotics Blog](https://www.learnrobotics.org/blog/wemos-wifi-controlled-robot-using-l298n/)
 
 ## Getting Started
 
